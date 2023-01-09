@@ -12,7 +12,7 @@ You can run the code as follows:
 
 - To start clone this repository by copy-pasting the code below to your terminal:
 ```
-git clone git@github.com:wlandau/targets-minimal.git
+git clone git@github.com:beyzaozen/MedicalDataPlot.git
 ```
 - open an R session in the root of the folder and run the code below then call:
 
