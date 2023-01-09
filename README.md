@@ -20,7 +20,7 @@ git clone git@github.com:wlandau/targets-minimal.git
 renv::restore()
 ```
 - activate the project by pressing the y key on your keyboard to continue. 
-- 
+- Run the code below to create fig file containing the product of the pipeline. 
 ``` r
 targets::tar_make()
 ``` 
