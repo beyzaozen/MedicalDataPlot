@@ -5,6 +5,8 @@
 
 The goal of MedicalDataPlot is to create a pipeline to save visual for the data using MedicalData package for Medical Cost Personal Datasets from the book of Machine Learning with R by Brett Lantz. 
 
+###  MedicalData Package
+https://github.com/beyzaozen/MedicalData/blob/main/README.md
 
 ## Running
 
